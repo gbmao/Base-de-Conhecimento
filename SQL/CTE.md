@@ -38,3 +38,7 @@ ORDER BY f.num_products DESC;
 ```
 
 - Acredito que é bem útil no caso de uma proc ou query. trazendo visibilidade e facilidade em leitura
+
+
+- existe recursive cte : não é muito comum, mas é bom saber que existe
+basicamente cria uma hierarquia dentro de si mesma.
