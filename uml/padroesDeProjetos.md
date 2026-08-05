@@ -1,4 +1,4 @@
-#padroes de projetos
+# padroes de projetos
 
 
 - basicamente seguir padrões significa uma facilidade, afinal, já foi verificado antes
@@ -13,7 +13,7 @@
 
 
 
-#Conhecendo padrões
+# Conhecendo padrões
 
 - nome
 
@@ -32,7 +32,7 @@ Geralmente uma solução feita em um diagrama uml
 
 
 
-#vantagens
+# vantagens
 Os padrões permitiram a criação de frameworks
 
 boas práticas para reutilização de código
@@ -43,9 +43,9 @@ melhoria da qualidade
 
 
 
-#Padrões GoF
+# Padrões GoF
 
-###Criação
+### Criação
 
 **Objetivo:** Tornar a implementação independente da forma com que os objetos são criados, compostos ou representados.
 
@@ -57,7 +57,7 @@ melhoria da qualidade
 - Prototype
 - Singleton
 
-###Estrutura
+### Estrutura
 
 **Objetivo:** Lidar com formas de combinar classes e objetos para formar estruturas 
 maiores. 
@@ -72,7 +72,7 @@ maiores.
 
 
 
-##Comportamento
+## Comportamento
 
 **Objetivo:** Lidar com algoritmos, distribuição de responsabilidades
  e comunicação entre objetos.
