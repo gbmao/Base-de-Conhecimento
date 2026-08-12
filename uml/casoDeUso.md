@@ -9,11 +9,11 @@ Bem  como as interrelações das funções de um sistema e as relações entre e
 - existem 3 objetos no diagrama de caso de uso
 
 
-.1 [nome] = caso de uso. *ex* `cadastrar usuário`
+1. [nome] = caso de uso. *ex* `cadastrar usuário`
 
-.2 [ator] = não representa uma pessoa em si. representar um grupo ou um função, ou outro sistema. É, basicamente quem interage com o sistema
+2. [ator] = não representa uma pessoa em si. representar um grupo ou um função, ou outro sistema. É, basicamente quem interage com o sistema
 
-.3 [limite do sistema] = limite do sistema: ator e caso de uso ficam do lado de fora, pois não fazem parte do sistema
+3. [limite do sistema] = limite do sistema: ator e caso de uso ficam do lado de fora, pois não fazem parte do sistema
 
 
 
@@ -98,9 +98,9 @@ Nome|Realizar locação
 *pós-condições*|Pagar valor da locação
 *Fluxo principal*| -
 *Ações do ator*|*ações do sistema*
-1.informar código| 
- | 2.Verificar situação do locador
- | 3.Locar carro para locador
+1.informar código|- 
+-| 2.Verificar situação do locador
+-| 3.Locar carro para locador
 *Fluxo Alternativo(1)*| Cliente não cadastrado, encaminha para cadastro
 *Fluxo alternativo(2)*| Locador possui pendências de pagamentos, cacelar locação até que sejam satisfeitas
 
